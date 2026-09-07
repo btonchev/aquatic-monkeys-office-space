@@ -28,16 +28,16 @@ The correct room orientation is:
 │                                                       │
 │                                                       │
 │                                                       │
-│ ═══ Linear 60cm ═══   ●   ═══   ●   ═══ Linear 60cm │
+│ ═══ Linear 60cm ═══   ●   ═══   ●   ═══ Linear 60cm   │
 │                                                       │
 │                       RELSA #2                        │
-│              2 × 60 cm Linear = 3370 lm              │
+│              2 × 60 cm Linear = 3370 lm               │
 │                   2 × Spot = 1980 lm                  │
 │                                                       │
 │                                                       │
-│ ═══ Linear 60cm ═══       ═══ Linear 60cm ═══       │
+│ ═══ Linear 60cm ═══       ═══ Linear 60cm ═══         │
 │                       RELSA #1                        │
-│              2 × 60 cm Linear = 3370 lm              │
+│              2 × 60 cm Linear = 3370 lm               │
 │                                                       │
 │                                                       │
 └───────────────────────────────────────────────────────┘
@@ -104,9 +104,9 @@ The current distribution can therefore be represented as:
                 DESK / BOOTH WALL
 ┌──────────────────────────────────────────────┐
 │                                              │
-│   DESK      BOOTH 1     BOOTH 2      DESK   │
+│   DESK      BOOTH 1     BOOTH 2      DESK    │
 │                                              │
-│       Linear        ● ●        Linear       │
+│       Linear        ● ●        Linear        │
 │                  3370 + 1980 lm              │
 │                                              │
 │                                              │
