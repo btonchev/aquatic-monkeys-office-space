@@ -47,8 +47,6 @@ The correct room orientation is:
 
 > **Note:** The drawing is schematic and not to scale. It represents the current installation concept and relative placement.
 
-![Room layout plan](layout_plan.png)
-
 ---
 
 ## 2. Existing magnetic-track installation
