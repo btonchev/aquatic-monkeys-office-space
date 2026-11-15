@@ -86,7 +86,7 @@ not yet been specified.*
 | Colour temperature | 3000 K                                               | 4000 K                                 | 4000 K                                              | 2700–3000 K                                                                      |
 | Main objective     | Comfort and even illumination                        | Good visibility for work and teaching  | Localised lighting for each workstation             | Soft, subdued light with the central floor area kept visually calm               |
 
-## 4. Setup Summary
+## Setup Summary
 
 | Setup                | General lighting           | Directional lighting        |
 |----------------------|----------------------------|-----------------------------|
@@ -95,3 +95,6 @@ not yet been specified.*
 | Shared Space         | 4 × Spot 9                 | 3 × Spot 4 TT               |
 | Yoga / Dry Exercises | 4 × Spot 9, heavily dimmed | Spot 4 TT off or at minimum |
 
+## Resources
+
+https://www.youtube.com/watch?v=63Ssf0Kp4fw
