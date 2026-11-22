@@ -71,6 +71,8 @@ The track geometry remains unchanged:
 
  ![schematic](./onerail-schematics.png)
 
+ ![schematic](./all_lights.png)
+
 *This is an indicative schematic. Exact installation coordinates have
 not yet been specified.*
 
